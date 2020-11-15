@@ -9,4 +9,4 @@ How to use MDDB:
 
 2- Configure it, create a new user or keep on using root which isn't reccomended. Then change the first lines in MDDB.py to however you have configured it. You can now freely use MDDB.
 
-THank you for using my project any addition is more than welcome and hopefully I was able to help you.
+Thank you for using my project any addition is more than welcome and hopefully I was able to help you.
