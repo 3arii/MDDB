@@ -10,3 +10,11 @@ How to use MDDB:
 2- Configure it, create a new user or keep on using root which isn't reccomended. Then change the first lines in MDDB.py to however you have configured it. You can now freely use MDDB.
 
 Thank you for using my project any addition is more than welcome and hopefully I was able to help you.
+
+GUI usage for MDDB(1.0):
+
+1 - The GUI is configured automatically so there is no need to do anything although for MDDB you will still need mysql.
+
+2 - The GUI serves only testing purposes for a safer experience continue using MDDB in the terminal.
+
+
